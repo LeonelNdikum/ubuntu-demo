@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "welcome to endering"
 echo "Welcome Leonel, please select your starting class"
 
 echo "1- samurai"
