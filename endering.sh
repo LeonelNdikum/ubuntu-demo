@@ -1,5 +1,5 @@
 #!/bin/bash
-This is my 2nd game
+This is my 3nd game
 echo "welcome to endering"
 echo "Welcome Leonel, please select your starting class"
 
@@ -15,6 +15,6 @@ if [[ $class==1 ]]; then
 
                 type="samurai"
                 hp=10
-                attack=20
+                attack=21
 
 elif [[ $class==2 ]]; then
