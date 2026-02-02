@@ -1,4 +1,5 @@
 #!/bin/bash
+This is my 2nd game
 echo "welcome to endering"
 echo "Welcome Leonel, please select your starting class"
 
